@@ -9,7 +9,7 @@
 <!-- TopNavBar -->
 <header use:observeSection use:reveal class="sticky top-0 z-50 bg-background border-b-2 border-text-main">
     <nav class="flex justify-between items-center w-full px-base md:px-margin-desktop max-w-max-width mx-auto h-16">
-        <div class="text-label-md font-headline-md font-bold text-text-main">Atharva Tikhe</div>
+        <div class="text-label-md font-headline-md font-bold text-text-main">Aditi Kathalay</div>
         <div class="hidden md:flex gap-gutter items-center">
         <a class:text-primary={navigation.activeSection === 'hero'} class="text-text-main hover:text-primary transition-colors duration-200 text-label-md font-label-md" href="#about">About</a>
         <a class:text-primary={navigation.activeSection === 'projects'} class="text-text-main hover:text-primary transition-colors duration-200 text-label-md font-label-md" href="#projects">Projects</a>

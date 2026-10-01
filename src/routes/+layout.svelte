@@ -8,7 +8,7 @@
 
 <svelte:head>
 	<!-- <link rel="icon" href={favicon} /> -->
-	<title>Atharva Tikhe</title>	
+	<title>Aditi Kathalay</title>	
 
 </svelte:head>
 {@render children()}

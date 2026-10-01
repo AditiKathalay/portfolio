@@ -44,9 +44,9 @@
 			<!-- Entry 1 -->
 			<div class="relative pl-10">
 				<div class="absolute top-2 left-[-8px] h-4 w-4 bg-primary"></div>
-				<span class="font-label-sm text-label-sm text-primary uppercase">May '26 — Present</span>
-				<h3 class="mt-1 font-headline-md text-headline-md">Scientific Content Creation Intern</h3>
-				<p class="font-label-md text-on-surface-variant">John Walton Muscular Dystrophy Research Center | DECRI <span class="text-gray-500">| UK</span>  </p>
+				<span class="font-label-sm text-label-sm text-primary uppercase">June 2024 — Present</span>
+				<h3 class="mt-1 font-headline-md text-headline-md">Manager, AI Engineer</h3>
+				<p class="font-label-md text-on-surface-variant">L&T Financial Services <span class="text-gray-500">| Mumbai/Pune</span>  </p>
 				<p class="mt-4 max-w-2xl font-body-md">
 					Worked on making scientific visual/textual assets for the organisations, mainly about MD awareness.
 				</p>
@@ -54,7 +54,7 @@
 			<!-- Entry 2 -->
 			<div class="relative pl-10">
 				<div class="absolute top-2 left-[-8px] h-4 w-4 bg-primary"></div>
-				<span class="font-label-sm text-label-sm text-primary uppercase">Nov '25  — May '26</span>
+				<span class="font-label-sm text-label-sm text-primary uppercase">January 2024  — May 2024</span>
 				<h3 class="mt-1 font-headline-md text-headline-md">Teaching Resource Content Creation Intern</h3>
 				<p class="font-label-md text-on-surface-variant">Faculty of Medical Sciences | Newcastle University <span class="text-gray-500">| UK</span> </p>
 				<p class="mt-4 max-w-2xl font-body-md">
