@@ -10,7 +10,7 @@
         <div class="md:col-span-8">
             <div class="font-body-lg text-body-lg space-y-6">
                 <p>
-                    With an academic foundation in <span class="font-bold">MTech Bioengineering</span> and an <span class="font-bold">MSc in Bioinformatics</span>, I bridge the gap between biological research and computational engineering. My approach is rooted in the rigor of scientific methodology and the efficiency of modern software development.
+                    With an academic foundation in <span class="font-bold">MTech Bioengineering</span> and an <span class="font-bold">MSc in Data Science and Big Data Analytics</span>, I bridge the gap between biological research and computational engineering. My approach is rooted in the rigor of scientific methodology and the efficiency of modern software development.
                 </p>
                 <p>
                     My professional journey is centered on developing scalable solutions for <span class="font-bold">cancer genomics</span> and reproducible pipelines for complex biological datasets. I specialize in turning raw sequencing data into actionable scientific insights through architecting robust bioinformatics ecosystems.

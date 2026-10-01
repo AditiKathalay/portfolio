@@ -17,10 +17,10 @@
 		>
 			<div class="mb-6 flex items-start justify-between">
 				<div class="flex-1">
-					<h3 class="mb-1 font-headline-md text-headline-md">MSc in Bioinformatics</h3>
-					<p class="font-label-md text-primary">Newcastle University, UK</p>
+					<h3 class="mb-1 font-headline-md text-headline-md">MSc in Data Science and Big Data Analytics</h3>
+					<p class="font-label-md text-primary">Maharashtra Institute of Technology, Pune, India</p>
 					<p class="mt-1 text-label-sm tracking-wider text-on-surface-variant uppercase">
-						2025 — 2026
+						2022 — 2024
 					</p>
 				</div>
 				<div
@@ -73,11 +73,11 @@
 		>
 			<div class="mb-6 flex items-start justify-between">
 				<div class="flex-1">
-					<h3 class="mb-1 font-headline-md text-headline-md">MTech in Bioengineering <strong class="text-xs text-amber-400">Gold Medal</strong> </h3>
-					<p class="font-label-md text-primary">School of Bioengineering Sciences & Research</p>
-					<p class="font-label-md text-ncl-blue">MIT-ADT University</p>
+					<h3 class="mb-1 font-headline-md text-headline-md">BSc in Data Science <strong class="text-xs text-amber-400">Gold Medal</strong> </h3>
+					<p class="font-label-md text-primary">Pune University</p>
+					<!-- <p class="font-label-md text-ncl-blue">MIT-ADT University</p> -->
 					<p class="mt-1 text-label-sm tracking-wider text-on-surface-variant uppercase">
-						2019 — 2024
+						2019 — 2022
 					</p>
 				</div>
 				<div
