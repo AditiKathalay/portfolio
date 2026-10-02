@@ -6,16 +6,29 @@
 
 <section use:observeSection use:reveal class="py-section-gap grid md:grid-cols-12 gap-gutter items-center font-sans" id="hero">
     <div use:reveal class="md:col-span-5 order-2 md:order-1">
+    <!-- <div use:reveal class="md:col-span-6 order-2 md:order-1"> -->
         <div use:reveal class="aspect-3/4 overflow-hidden border border-border-subtle">
             <img alt="Aditi Kathalay" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500" src="Aditi_2.JPG"/>
         </div>
     </div>
-    <div use:reveal class="md:col-span-7 order-1 md:order-2">
+    <!-- <div use:reveal class="md:col-span-7 order-1 md:order-2"> -->
+    <div use:reveal class="md:col-span-6 order-1 md:order-2">
         <h1 class="font-display-xl text-display-xl md:text-[56px] mb-4">Aditi Kathalay</h1>
         <h2 class="font-headline-lg text-headline-lg text-primary mb-8">AI Engineer &amp; GenAI Developer</h2>
         <p class="font-body-lg text-body-lg mb-12 text-on-surface-variant leading-relaxed">
-                Building robust bioinformatics pipelines, high-throughput genomics analysis workflows, and research software for cancer genomics and large-scale computational biology. Dedicated to reproducible science and efficient data engineering in life sciences.
-        </p>
+                What if the things we spend hours doing could be done in seconds? That’s the kind of problem I like solving. 
+
+                <!-- <br/><br/>  -->
+
+                <!-- I’m an AI Engineer with 2+ years of experience building practical AI solutions with LLMs, Agentic AI, FastAPI, and emerging AI technologies. -->
+                
+                <br/>
+                
+                What I enjoy most is seeing something I built go from an idea to a real product that genuinely makes someone’s work easier.
+                
+                <br/><br/> 
+                <b>Build something useful. See it create value. Repeat.</b> </p>
+
         <div use:reveal class="flex flex-wrap gap-4">
             <a class="bg-primary text-on-primary px-8 py-3 font-label-md text-label-md hover:bg-[#004a80] transition-transform duration-200 hover:scale-[1.02] active:scale-[0.98]" href="#projects">
                         View Projects
