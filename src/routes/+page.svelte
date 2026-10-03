@@ -15,8 +15,8 @@
 <main class="max-w-max-width mx-auto px-base md:px-margin-desktop">
     <Hero />
     <About />
-    <Education />
     <Experience />
+    <Education />
     <Projects /> 
     <Skills />
     <Contact />

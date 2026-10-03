@@ -6,7 +6,7 @@
 <section use:observeSection use:reveal class="py-section-gap border-t-2 border-text-main text-center" id="contact">
 <div class="">
 <h2 class="font-headline-lg text-headline-lg mb-4">Get in Touch</h2>
-<p class="font-body-lg text-body-lg mb-10 max-w-xl mx-auto">Open for collaboration on bioinformatics tooling, research pipelines, and computational biology projects.</p>
+<p class="font-body-lg text-body-lg mb-10 max-w-xl mx-auto">Always open to building <span class="font-bold">useful AI</span>, whether it’s an Agentic workflow, an LLM powered product, or an idea that can turn a manual process into something smarter and faster.</p>
 </div>
 <div class="flex flex-wrap justify-center gap-gutter ">
 <a class="flex flex-col items-center gap-2 group" href="mailto:aditikathalay2209@gmail.com">

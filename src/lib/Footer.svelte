@@ -6,7 +6,7 @@
 <div class="flex flex-col md:flex-row justify-between items-center w-full px-base md:px-margin-desktop max-w-max-width mx-auto py-gutter">
 <div class="mb-4 md:mb-0">
 <p class="text-label-md font-headline-md font-bold text-text-main">Aditi Kathalay</p>
-<p class="text-label-sm font-label-sm text-on-surface-variant">© 2026 Aditi Kathalay. Bioinformatics Engineer.</p>
+<p class="text-label-sm font-label-sm text-on-surface-variant">© 2026 Aditi Kathalay. AI Engineer.</p>
 </div>
 <div class="flex gap-gutter">
 <a class="text-text-main hover:underline decoration-2 transition-all font-label-sm text-label-sm" href="mailto:aditikathalay2209@gmail.com" target="_blank">Email</a>

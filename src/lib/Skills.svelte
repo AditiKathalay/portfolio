@@ -15,27 +15,27 @@
 		<div
 			class="skill-badge border-violet-500 bg-surface-container-low p-gutter transition-colors duration-300 hover:bg-white hover:shadow-sm"
 		>
-			<h3 class="mb-4 font-label-md text-label-md text-text-main">Bioinformatics</h3>
+			<h3 class="mb-4 font-label-md text-label-md text-text-main">AI</h3>
 			<div class="flex flex-wrap gap-2">
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>NGS Analysis</span
+					>Python</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Engineering / Tooling</span
+					>Transformer</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Variant Analysis (CNVs/SNPs)</span
+					>LLMs</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Metagenomics</span
+					>Deep Learning Algorithm</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Phylogenetics</span
+					>Machine Learning Algorithms/span
 				>
 			</div>
 		</div>
@@ -51,11 +51,11 @@
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>R / Bioconductor</span
+					>R</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Rust</span
+					>HTML/CSS/JavaScript</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
@@ -72,7 +72,7 @@
 			<div class="flex flex-wrap gap-2">
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Nextflow</span
+					>GCP</span
 				>
 				<!-- <span class="px-2 py-1 border border-border-subtle bg-white text-label-sm transition-transform hover:scale-105 cursor-default">Snakemake</span> -->
 				<!-- <span class="px-2 py-1 border border-border-subtle bg-white text-label-sm transition-transform hover:scale-105 cursor-default">ETL Pipelines</span> -->
@@ -80,13 +80,13 @@
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
 					>AWS S3/Batch</span
 				>
+				<!-- <span
+					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
+					></span
+				> -->
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>PBS</span
-				>
-				<span
-					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Jenkins/GitHub Actions/CI-CD</span
+					>GitHub Actions/CI-CD</span
 				>
 			</div>
 		</div>
@@ -108,10 +108,10 @@
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
 					>Data Viz in R/Python</span
 				>
-				<span
+				<!-- <span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
 					>Bioconductor</span
-				>
+				> -->
 			</div>
 		</div>
 		<!-- DevOps -->
@@ -126,7 +126,7 @@
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Singularity</span
+					>GKE, Vertex Pipelines</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"

@@ -10,10 +10,15 @@
         <div class="md:col-span-8">
             <div class="font-body-lg text-body-lg space-y-6">
                 <p>
-                    With an academic foundation in <span class="font-bold">MTech Bioengineering</span> and an <span class="font-bold">MSc in Data Science and Big Data Analytics</span>, I bridge the gap between biological research and computational engineering. My approach is rooted in the rigor of scientific methodology and the efficiency of modern software development.
+                    I’m an AI Engineer with 2+ years of experience building and owning <span class="font-bold">fully Agentic AI and LLM solutions</span> for the Banking and NBFC sector, focused on credit, underwriting, lending, and process automation. Currently working on <span class="font-bold">Helios CAM</span>, a one stop Agentic AI solution consolidating bureau, dedupe, and multi GST data for SME lending. I’ve also built <span class="font-bold">SME Triangulation</span>, combining Banking, GST, and ITR data; <span class="font-bold">HL FSA</span>, an ITR based credit scorer for Home Loan assessment; and <span class="font-bold">ML to MLAP Cross Sell</span>, using property data, geolocation, and images to identify cross sell and top up opportunities. 
+
                 </p>
                 <p>
-                    My professional journey is centered on developing scalable solutions for <span class="font-bold">cancer genomics</span> and reproducible pipelines for complex biological datasets. I specialize in turning raw sequencing data into actionable scientific insights through architecting robust bioinformatics ecosystems.
+                    I take <span class="font-bold">end to end ownership</span>, from coding and documentation to infrastructure, deployment, monitoring, V2 development, and working directly with business stakeholders. 
+                </p>
+
+                <p>
+                    I hold an <span class="font-bold">MSc in Data Science and Big Data Analytics</span> and a <span class="font-bold">BSc in Computer Science</span>, where I graduated as a <span class="font-bold">Gold Medalist</span> in <span class="font-bold">both</span> the programs.
                 </p>
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
                     <!-- <div class="p-base bg-surface-container-low border border-border-subtle hover:border-primary transition-colors duration-300">

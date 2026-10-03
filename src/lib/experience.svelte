@@ -48,17 +48,26 @@
 				<h3 class="mt-1 font-headline-md text-headline-md">Manager, AI Engineer</h3>
 				<p class="font-label-md text-on-surface-variant">L&T Financial Services <span class="text-gray-500">| Mumbai/Pune</span>  </p>
 				<p class="mt-4 max-w-2xl font-body-md">
-					Worked on making scientific visual/textual assets for the organisations, mainly about MD awareness.
+					• Owned the end to end development of <span class="font-bold">L&T Finance’s flagship Agentic AI underwriting projects, Helios</span>, from architecture and coding to infrastructure, deployment, monitoring, business integration, and subsequent enhancements. Helios includes SME Triangulation, PL Bureau Analyzer, HL FSA, and Helios CAM, built using Gemini, GPT, LangGraph, and tool calling.
+				</p>
+				<p class="mt-0.5 max-w-2xl font-body-md">
+					• Currently working on <span class="font-bold">Helios CAM</span>, a one stop Agentic AI solution bringing together bureau, dedupe, and multi GST analysis for SME lending.
+				</p>
+				<p class="mt-0.5 max-w-2xl font-body-md">
+					• Developed <span class="font-bold">ML to MLAP Cross Sell</span>, using property data, geolocation, and property images to identify cross sell and top up opportunities.
+				</p>
+				<p class="mt-0.5 max-w-2xl font-body-md">
+					• Built a <span class="font-bold">Lifestyle Index Rating</span> model to assess housing quality, delivering the complete AI solution across frontend, backend, and APIs; showcased at **RAISE 2024**.
 				</p>
 			</div>
 			<!-- Entry 2 -->
 			<div class="relative pl-10">
 				<div class="absolute top-2 left-[-8px] h-4 w-4 bg-primary"></div>
 				<span class="font-label-sm text-label-sm text-primary uppercase">January 2024  — May 2024</span>
-				<h3 class="mt-1 font-headline-md text-headline-md">Teaching Resource Content Creation Intern</h3>
-				<p class="font-label-md text-on-surface-variant">Faculty of Medical Sciences | Newcastle University <span class="text-gray-500">| UK</span> </p>
-				<p class="mt-4 max-w-2xl font-body-md">
-					Worked on managing Canvas pages for new courses under CPD
+				<h3 class="mt-1 font-headline-md text-headline-md">Data Science Intern</h3>
+				<p class="font-label-md text-on-surface-variant">L&T Financial Services <span class="text-gray-500">| Mumbai</span>  </p>
+				<p class="mt-0.5 max-w-2xl font-body-md">
+					• Developed a <span class="font-bold">Treasury Forecasting</span> model using Prophet to improve product level financial forecasting for treasury planning for Two Wheeler, Farm Loans and SME Loans.
 				</p>
                 <p class="mt-0.5 max-w-2xl font-body-md">
 					Created visual/animated/textual content for the assigned CPD course
@@ -67,30 +76,31 @@
 			<!-- Entry 3 -->
 			<div class="relative pl-10">
 				<div class="absolute top-2 left-[-8px] h-4 w-4 bg-primary"></div>
-				<span class="font-label-sm text-label-sm text-primary uppercase"> May '24  —  Aug '25</span>
-				<h3 class="mt-1 font-headline-md text-headline-md"><strong>Bioinformatics Engineer</strong></h3>
-				<p class="font-label-md text-on-surface-variant">MedGenome Labs PVT. LTD. <span class="text-gray-500"> | IND</span></p>
+				<span class="font-label-sm text-label-sm text-primary uppercase"> June 2023  —  July 2023</span>
+				<h3 class="mt-1 font-headline-md text-headline-md"><strong>DATA SCIENCE AND BUSINESS ANALYTICS INTERN</strong></h3>
+				<p class="font-label-md text-on-surface-variant">The Sparks Foundation<span class="text-gray-500"> |  Singapore (remote)</span></p>
 				<p class="mt-4 max-w-2xl font-body-md">
-					Designed and deployed pipelines using Nextflow with DRAGEN modules reducing alignment job times by 80%
+					Applied linear regression to predict the percentage of a student based on the number of hours they study
 				</p>
-                <p class="mt-0.5 max-w-2xl font-body-md">Managed a suite of pipelines on HPC (PBS)</p>
-                <p class="mt-0.5 max-w-2xl font-body-md">Delivered corporate training to interns</p>
-                <p class="mt-0.5 max-w-2xl font-body-md">Designed phasing, imputation and PRS pipelines</p>
-                <p class="mt-0.5 max-w-2xl font-body-md">Wrote optimization plugin in Java to cleanup work folders (saved 300GB/sample)</p>
-                <p class="mt-0.5 max-w-2xl font-body-md">Designed & deployed web-app for internal primer design/QC</p>
+                <p class="mt-0.5 max-w-2xl font-body-md">
+					Used PowerBI tools on a "Global Terrorism Dataset" to identify the hot zones of terrorism.
+				</p>
+                
+                
 			</div>
             <div class="relative pl-10">
 				<div class="absolute top-2 left-[-8px] h-4 w-4 bg-primary"></div>
-				<span class="font-label-sm text-label-sm text-primary uppercase"> Jan '24  —  May '24</span>
-				<h3 class="mt-1 font-headline-md text-headline-md"><strong>Bioinformatics Intern</strong></h3>
-				<p class="font-label-md text-on-surface-variant">GreenArray Genomic Research & Solutions <span class="text-gray-500"> | IND</span></p>
+				<span class="font-label-sm text-label-sm text-primary uppercase">May 2023</span>
+				<h3 class="mt-1 font-headline-md text-headline-md"><strong>DATA SCIENCE INTERN</strong></h3>
+				<p class="font-label-md text-on-surface-variant">British Airways<span class="text-gray-500"> | IND (remote)</span></p>
 				<p class="mt-4 max-w-2xl font-body-md">
-                    Developed Nextflow pipeline for clinical variant calling of WES data
+					Fully web-scraped customer review data and performed sentiment analysis
 				</p>
-                <p class="mt-0.5 max-w-2xl font-body-md">Created a full-stack webapp to process variant calling data for business needs</p>
-                <p class="mt-0.5 max-w-2xl font-body-md">Performed primer designing and validation for HPV strains.</p>
+				<p class="mt-0.5 max-w-2xl font-body-md">
+					By employing Logistic Regression and feature importance techniques, I successfully developed a robust model that predicts customer behaviour with an impressive accuracy of 85.2%
+				</p>	
 			</div>
-            <div class="relative pl-10">
+            <!-- <div class="relative pl-10">
 				<div class="absolute top-2 left-[-8px] h-4 w-4 bg-primary"></div>
 				<span class="font-label-sm text-label-sm text-primary uppercase"> Jun '22  —  Aug '22</span>
 				<h3 class="mt-1 font-headline-md text-headline-md"><strong>Bioinformatics Intern</strong></h3>
@@ -99,7 +109,7 @@
                     In silico analysis of anti-inflammatory effects of phenolics on jaggery; Performed systemic literature review;
 				</p>
                 <p class="mt-0.5 max-w-2xl font-body-md">Designed and executed molecular docking and dynamics simulations.</p>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </section>
