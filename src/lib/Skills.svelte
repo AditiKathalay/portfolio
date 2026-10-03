@@ -35,8 +35,9 @@
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Machine Learning Algorithms/span
+					>Machine Learning Algorithms</span
 				>
+
 			</div>
 		</div>
 		<!-- Programming -->
