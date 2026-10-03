@@ -48,7 +48,7 @@
 				<h3 class="mt-1 font-headline-md text-headline-md">Manager, AI Engineer</h3>
 				<p class="font-label-md text-on-surface-variant">L&T Financial Services <span class="text-gray-500">| Mumbai/Pune</span>  </p>
 				<p class="mt-4 max-w-2xl font-body-md">
-					• Owned the end to end development of <span class="font-bold">L&T Finance’s flagship Agentic AI underwriting projects, Helios</span>, from architecture and coding to infrastructure, deployment, monitoring, business integration, and subsequent enhancements. Helios includes SME Triangulation, PL Bureau Analyzer, HL FSA, and Helios CAM, built using Gemini, GPT, LangGraph, and tool calling.
+					• Owned the end to end development of <span class="font-bold">L&T Finance’s flagship Agentic AI underwriting projects, Helios</span>, from architecture and coding to infrastructure, deployment, monitoring, business integration, and subsequent enhancements. Helios includes SME Triangulation, PL Bureau Analyzer, HL FSA, built using Gemini, LangGraph, and tool calling.
 				</p>
 				<p class="mt-0.5 max-w-2xl font-body-md">
 					• Currently working on <span class="font-bold">Helios CAM</span>, a one stop Agentic AI solution bringing together bureau, dedupe, and multi GST analysis for SME lending.
@@ -57,7 +57,7 @@
 					• Developed <span class="font-bold">ML to MLAP Cross Sell</span>, using property data, geolocation, and property images to identify cross sell and top up opportunities.
 				</p>
 				<p class="mt-0.5 max-w-2xl font-body-md">
-					• Built a <span class="font-bold">Lifestyle Index Rating</span> model to assess housing quality, delivering the complete AI solution across frontend, backend, and APIs; showcased at **RAISE 2024**.
+					• Built a <span class="font-bold">Lifestyle Index Rating</span> model to assess housing quality, delivering the complete AI solution across frontend, backend, and APIs; showcased at <span class="font-bold">RAISE 2024</span>.
 				</p>
 			</div>
 			<!-- Entry 2 -->

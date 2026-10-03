@@ -33,7 +33,11 @@
 </div>
 <div class="flex flex-wrap gap-2 pt-2">
 <span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">Pyhon</span>
-<span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">Machine Learning Algorithms</span>
+<span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">Agentic AI</span>
+<span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">LangGraph</span>
+<span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">RAG</span>
+<span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">FAST APIs</span>
+<span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">Frontend (HTML, CSS, JavaScript)</span>
 <!-- <span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors"></span> -->
 </div>
 </div>
@@ -138,11 +142,11 @@
 <div class="space-y-4 font-body-md">
 <div>
 <p class="text-primary font-label-sm uppercase mb-1">Approach</p>
-<p>Architected a suite of Python-based CLI utilities for FASTQ/BAM manipulation and quality control metadata aggregation.</p>
+<p>Developed the complete application with booking, ticket management, and payment functionality.</p>
 </div>
 <div>
 <p class="text-primary font-label-sm uppercase mb-1">Outcome</p>
-<p>Currently utilized by 3 research labs to streamline preliminary data checks and pipeline integration.</p>
+<p>Built a functional airline booking platform enabling users to search, book, and pay for tickets online.</p>
 </div>
 <div class="flex flex-wrap gap-2 pt-2">
 <span class="text-label-sm px-2 py-1 bg-surface-container-high border border-border-subtle group-hover:border-primary/50 transition-colors">Java</span>

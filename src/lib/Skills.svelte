@@ -127,7 +127,7 @@
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>GKE, Vertex Pipelines</span
+					>GKE</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
