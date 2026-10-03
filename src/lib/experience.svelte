@@ -70,7 +70,7 @@
 					• Developed a <span class="font-bold">Treasury Forecasting</span> model using Prophet to improve product level financial forecasting for treasury planning for Two Wheeler, Farm Loans and SME Loans.
 				</p>
                 <p class="mt-0.5 max-w-2xl font-body-md">
-					Created visual/animated/textual content for the assigned CPD course
+					• Created visual/animated/textual content for the assigned CPD course
 				</p>
 			</div>
 			<!-- Entry 3 -->
@@ -80,10 +80,10 @@
 				<h3 class="mt-1 font-headline-md text-headline-md"><strong>DATA SCIENCE AND BUSINESS ANALYTICS INTERN</strong></h3>
 				<p class="font-label-md text-on-surface-variant">The Sparks Foundation<span class="text-gray-500"> |  Singapore (remote)</span></p>
 				<p class="mt-4 max-w-2xl font-body-md">
-					Applied linear regression to predict the percentage of a student based on the number of hours they study
+					• Applied linear regression to predict the percentage of a student based on the number of hours they study
 				</p>
                 <p class="mt-0.5 max-w-2xl font-body-md">
-					Used PowerBI tools on a "Global Terrorism Dataset" to identify the hot zones of terrorism.
+					• Used PowerBI tools on a "Global Terrorism Dataset" to identify the hot zones of terrorism.
 				</p>
                 
                 
@@ -94,10 +94,10 @@
 				<h3 class="mt-1 font-headline-md text-headline-md"><strong>DATA SCIENCE INTERN</strong></h3>
 				<p class="font-label-md text-on-surface-variant">British Airways<span class="text-gray-500"> | IND (remote)</span></p>
 				<p class="mt-4 max-w-2xl font-body-md">
-					Fully web-scraped customer review data and performed sentiment analysis
+					• Fully web-scraped customer review data and performed sentiment analysis
 				</p>
 				<p class="mt-0.5 max-w-2xl font-body-md">
-					By employing Logistic Regression and feature importance techniques, I successfully developed a robust model that predicts customer behaviour with an impressive accuracy of 85.2%
+					• By employing Logistic Regression and feature importance techniques, I successfully developed a robust model that predicts customer behaviour with an impressive accuracy of 85.2%
 				</p>	
 			</div>
             <!-- <div class="relative pl-10">

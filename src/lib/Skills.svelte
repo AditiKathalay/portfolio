@@ -15,7 +15,7 @@
 		<div
 			class="skill-badge border-violet-500 bg-surface-container-low p-gutter transition-colors duration-300 hover:bg-white hover:shadow-sm"
 		>
-			<h3 class="mb-4 font-label-md text-label-md text-text-main">AI</h3>
+			<h3 class="mb-4 font-label-md text-label-md text-text-main">AI & Machine Learning</h3>
 			<div class="flex flex-wrap gap-2">
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
@@ -23,15 +23,15 @@
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Transformer</span
+					>Transformers</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>LLMs</span
+					>Agentic AI</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>Deep Learning Algorithm</span
+					>LangGraph, LangChain</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
@@ -44,7 +44,7 @@
 		<div
 			class="skill-badge border-[#00703C] bg-surface-container-low p-gutter transition-colors duration-300 hover:bg-white hover:shadow-sm"
 		>
-			<h3 class="mb-4 font-label-md text-label-md text-text-main">Programming</h3>
+			<h3 class="mb-4 font-label-md text-label-md text-text-main">Backend & Development</h3>
 			<div class="flex flex-wrap gap-2">
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
@@ -52,7 +52,7 @@
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					>R</span
+					>Fast APIs, REST APIs</span
 				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
@@ -69,7 +69,7 @@
 		<div
 			class="skill-badge border-[#ba1a1a] bg-surface-container-low p-gutter transition-colors duration-300 hover:bg-white hover:shadow-sm"
 		>
-			<h3 class="mb-4 font-label-md text-label-md text-text-main">Data Engineering</h3>
+			<h3 class="mb-4 font-label-md text-label-md text-text-main">Cloud & Data Engineering</h3>
 			<div class="flex flex-wrap gap-2">
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
@@ -81,17 +81,17 @@
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
 					>AWS S3/Batch</span
 				>
-				<!-- <span
+				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
-					></span
-				> -->
+					>Vertex AI Pipelines</span
+				>
 				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
 					>GitHub Actions/CI-CD</span
 				>
 			</div>
 		</div>
-		<!-- Scientific Computing -->
+		<!-- Scientific Computing
 		<div
 			class="skill-badge border-primary bg-surface-container-low p-gutter transition-colors duration-300 hover:bg-white hover:shadow-sm"
 		>
@@ -109,12 +109,12 @@
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
 					>Data Viz in R/Python</span
 				>
-				<!-- <span
+				<span
 					class="cursor-default border border-border-subtle bg-white px-2 py-1 text-label-sm transition-transform hover:scale-105"
 					>Bioconductor</span
-				> -->
+				> 
 			</div>
-		</div>
+		</div>-->
 		<!-- DevOps -->
 		<div
 			class="skill-badge border-[#555555] bg-surface-container-low p-gutter transition-colors duration-300 hover:bg-white hover:shadow-sm"
