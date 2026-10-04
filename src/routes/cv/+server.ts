@@ -15,7 +15,7 @@ export const GET: RequestHandler = () => {
 	return new Response(null, {
 		status: 302,
 		headers: {
-			Location: '/Aditi_Kathalay_Resume.pdf'
+			Location: '/Aditi Kathalay Resume.pdf'
 		}
 	});
 };
