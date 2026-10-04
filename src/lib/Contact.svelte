@@ -15,7 +15,7 @@
 </div>
 <span class="font-label-md text-label-md">Email</span>
 </a>
-<a class="flex flex-col items-center gap-2 group" href="https://www.github.com/Aditi-Kathalay" target="_blank">
+<a class="flex flex-col items-center gap-2 group" href="https://www.github.com/AditiKathalay" target="_blank">
 <div class="w-16 h-16 flex items-center justify-center bg-text-main text-white transition-all duration-300 group-hover:bg-primary group-hover:-translate-y-1">
 <span class="material-symbols-outlined text-3xl">code</span>
 </div>
